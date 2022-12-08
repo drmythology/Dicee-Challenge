@@ -37,5 +37,16 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+.image1{
+  color: black;
+}
+
+.image2{
+  color: blue;
+}
+
+.image3{
+  color: violet;
 }
